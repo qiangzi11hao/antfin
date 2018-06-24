@@ -19,5 +19,5 @@ Run main.py, then will get vocab.data and the weights inside saved_models.
 
 sgns.merge.word: https://pan.baidu.com/s/1luy-GlTdqqvJ3j-A4FcIOw
 	
-
+11
 
